@@ -1,19 +1,14 @@
-# Title
+# Project Title
 
-## Subtitle
+A brief description of what this project does and who it's for
 
-### Sub-subtitle
+## Table of Contents
 
-- List item 1
-- List item 2
-- List item 3
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-1. Numbered item 1
-2. Numbered item 2
-3. Numbered item 3
+## Installation
 
-**Bold text**
-
-*Italic text*
-
-`Inline code`
+Use the package manager [npm](https://www.npmjs.com/) to install foobar.
